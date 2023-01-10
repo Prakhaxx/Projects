@@ -1,0 +1,6 @@
+How to add SSh key 
+1. Open your command line and write "ssh keygen"
+2. Then go in c drive and check for ssh public file in User folder 
+3. Copy the Key present and then move to your github account 
+4. Open the settings and then paste your key in ssh option and then Click on add option .
+5. Congratulation You have saved your SSH key 

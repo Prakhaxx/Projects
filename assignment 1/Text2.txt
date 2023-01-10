@@ -1,0 +1,12 @@
+Creating A repo :-
+1. At first go on your git hub account and then click on creating a new repo
+2. Now set the name for your repo and add discription for it and then leave all the things as it is .
+3. click on the creat option present below .
+4. now you can go in either in Git bash cmd line or in you pc powershell for pushing your desired file .
+4. write down following command :-
+a) git init
+b) git add "Name" or git add .
+c) git commit  -m"any message"
+d) git remote add origin "your repo link"
+e) git push 
+AND THATS ALL 
