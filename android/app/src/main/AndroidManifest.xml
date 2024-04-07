@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="weather_app"
+=======
+        android:label="currency_converter"
+>>>>>>> 82baff79751aa18ab0710bbaeaddd412f3d60cd8
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

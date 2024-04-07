@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "weather_app",
     "short_name": "weather_app",
+=======
+    "name": "currency_converter",
+    "short_name": "currency_converter",
+>>>>>>> 82baff79751aa18ab0710bbaeaddd412f3d60cd8
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

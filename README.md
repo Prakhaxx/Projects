@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # weather_app
+=======
+# currency_converter
+>>>>>>> 82baff79751aa18ab0710bbaeaddd412f3d60cd8
 
 A new Flutter project.
 

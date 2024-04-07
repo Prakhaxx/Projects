@@ -8,7 +8,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
+<<<<<<< HEAD
 import 'package:weather_app/main.dart';
+=======
+import 'package:currency_converter/main.dart';
+>>>>>>> 82baff79751aa18ab0710bbaeaddd412f3d60cd8
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {

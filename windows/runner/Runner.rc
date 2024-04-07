@@ -90,12 +90,21 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
+<<<<<<< HEAD
             VALUE "FileDescription", "weather_app" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "weather_app" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "weather_app.exe" "\0"
             VALUE "ProductName", "weather_app" "\0"
+=======
+            VALUE "FileDescription", "currency_converter" "\0"
+            VALUE "FileVersion", VERSION_AS_STRING "\0"
+            VALUE "InternalName", "currency_converter" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "currency_converter.exe" "\0"
+            VALUE "ProductName", "currency_converter" "\0"
+>>>>>>> 82baff79751aa18ab0710bbaeaddd412f3d60cd8
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

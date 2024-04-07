@@ -27,7 +27,11 @@ int APIENTRY wWinMain(_In_ HINSTANCE instance, _In_opt_ HINSTANCE prev,
   FlutterWindow window(project);
   Win32Window::Point origin(10, 10);
   Win32Window::Size size(1280, 720);
+<<<<<<< HEAD
   if (!window.Create(L"weather_app", origin, size)) {
+=======
+  if (!window.Create(L"currency_converter", origin, size)) {
+>>>>>>> 82baff79751aa18ab0710bbaeaddd412f3d60cd8
     return EXIT_FAILURE;
   }
   window.SetQuitOnClose(true);
